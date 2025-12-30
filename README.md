@@ -1,3 +1,4 @@
+```
 pham_anh_tien = print
 
 class __Welcome_to_my_profile__:
@@ -42,3 +43,4 @@ me.__dep_trai_co_j_sai__()
 me.__2_ka_8__()
 me.__hot_boy_binh_thanh__()
 me.__chich_chich__()
+```
