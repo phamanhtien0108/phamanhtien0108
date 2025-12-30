@@ -35,8 +35,8 @@ class __Welcome_to_my_profile__:
             pham_anh_tien(f"   {i}. {ngon_ngu}")
         pham_anh_tien("")
         pham_anh_tien("Sở thích:")
-        for hobby in self.thich:
-            pham_anh_tien(f"   - {hobby}")
+        for deptrai in self.thich:
+            pham_anh_tien(f"   - {deptrai}")
         pham_anh_tien("")
         pham_anh_tien("Thanks you !!!")
         pham_anh_tien(f"Call me: {self.call_me}")
