@@ -1,4 +1,14 @@
-```
+<div align="center">
+  <img src="https://sf-static.upanhlaylink.com/img/image_20251230d0a18c32c9f1fbc0c8cf989bedd360a0.jpg" width="400" />
+ 
+  **`Python Developer | Student | Gamer`**
+  
+  ![](https://komarev.com/ghpvc/?username=phamanhtien0108&color=blueviolet)
+</div>
+
+---
+
+```python
 pham_anh_tien = print
 
 class __Welcome_to_my_profile__:
@@ -20,27 +30,18 @@ class __Welcome_to_my_profile__:
         pham_anh_tien(f"Quê quán: {self.que}")
         pham_anh_tien(f"Website: {self.website}")
         pham_anh_tien("")
-    
-    def __2_ka_8__(self):
-        pham_anh_tien("Ngôn ngữ :")
+        pham_anh_tien("Ngôn ngữ:")
         for i, ngon_ngu in enumerate(self.nn_lt, 1):
             pham_anh_tien(f"   {i}. {ngon_ngu}")
         pham_anh_tien("")
-    
-    def __hot_boy_binh_thanh__(self):
         pham_anh_tien("Sở thích:")
         for hobby in self.thich:
             pham_anh_tien(f"   - {hobby}")
         pham_anh_tien("")
-    
-    def __chich_chich__(self):
         pham_anh_tien("Thanks you !!!")
         pham_anh_tien(f"Call me: {self.call_me}")
-        pham_anh_tien(f"Website: {self.website}")
 
 me = __Welcome_to_my_profile__()
 me.__dep_trai_co_j_sai__()
-me.__2_ka_8__()
-me.__hot_boy_binh_thanh__()
-me.__chich_chich__()
+
 ```
