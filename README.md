@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sf-static.upanhlaylink.com/img/image_20251230d0a18c32c9f1fbc0c8cf989bedd360a0.jpg" width="400" />
+  <img src="https://sf-static.upanhlaylink.com/img/image_20251230d0a18c32c9f1fbc0c8cf989bedd360a0.jpg" width="200" />
  
   **`Python Developer | Student | Gamer`**
   
